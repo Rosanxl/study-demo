@@ -1,4 +1,4 @@
-package com.xue.studydemo.mq;
+package com.xue.mq;
 
 import org.springframework.amqp.core.AmqpTemplate;
 import org.springframework.beans.factory.annotation.Autowired;
